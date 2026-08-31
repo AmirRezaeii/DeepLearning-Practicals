@@ -1,7 +1,0 @@
-method,accuracy,invalid_rate,avg_generated_tokens,avg_latency_seconds
-Direct /no_think,0.046875,0.0,64.0,0.3587232951562527
-CoT /no_think,0.5625,0.0,254.875,2.372502814421871
-CoT /think,0.421875,0.0,512.0,3.0040171717187647
-Self-consistency N=5,0.640625,0.0,1218.25,6.969934347109373
-Few-shot k=1,0.453125,0.0,220.375,1.411660726500017
-Self-refinement,0.625,0.0,508.25,2.7840218933594088
