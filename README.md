@@ -111,23 +111,6 @@ An empirical study of **how much inference-time strategies can improve a small L
 
 ---
 
-## Getting Started
-
-All notebooks are designed to run on **Google Colab** with a free T4 GPU. Each notebook installs its own dependencies in the first cell.
-
-To run locally:
-
-```bash
-git clone <your-repo-url>
-cd <repo-folder>
-pip install torch torchvision jupyter
-jupyter notebook
-```
-
-> **Note:** Notebooks that use large pretrained models (CLIP, PEFT, RAG, Diffusion) require a GPU and will be very slow on CPU.
-
----
-
 ## Requirements
 
 Core dependencies used across notebooks:
